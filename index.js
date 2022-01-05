@@ -1,13 +1,3 @@
-// const config={headers:{Accept:'application/json'}}
-
-// fetch('https://icanhazdadjoke.com/',config)
-// .then(res => {
-//     return res.json();
-// })
-// .then(data => {
-//     console.log(data.joke)
-// })
-
 var n1=document.querySelector('#n1')
 var n2=document.querySelector('#n2')
 var n3=document.querySelector('#n3')
