@@ -1,6 +1,6 @@
 name: Autocloser
 on: [issues]
-exclude: assets/vendor
+exclude: - assets/vendor
 jobs:
   autoclose:
     runs-on: ubuntu-latest
